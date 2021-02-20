@@ -6,7 +6,7 @@ Is a interface using Node CLI, Node Inquirer, Jest (testing)
 
 This interface is to allow for the application to populate employee data.  This assignment is to also test the data with Jest.  
 
-![ScreenShot](output/Screen%20Shot%202021-02-20%20at%2012.30.01%20AM.png)
+![ScreenShot](output/Directory.png)
 Above is the directory within the html
 
 
