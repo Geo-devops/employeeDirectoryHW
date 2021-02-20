@@ -1,0 +1,29 @@
+{
+  "name": "employeedirectoryhw",
+  "version": "1.0.0",
+  "description": "Test run",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgettebondarek/employeeDirectoryHW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgettebondarek/employeeDirectoryHW/issues"
+  },
+  "homepage": "https://github.com/georgettebondarek/employeeDirectoryHW#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
